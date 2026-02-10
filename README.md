@@ -58,11 +58,24 @@ Understanding the "who" and "where" before predicting the "when."
 
 ---
 
+## 🤖 Machine Learning Models
+I mplemented and compared two regression models to determine the most accurate forecasting approach:
+
+**Linear Regression:** Provides a baseline for sales trends.
+
+**Random Forest Regressor:** Captures non-linear patterns and complex interactions in the data.
+
+**Evaluation:**
+
+**Metric:** Mean Absolute Error (MAE)
+
+**Result:** The Random Forest model achieved a lower MAE, making it the preferred choice for this dataset.
+
 ## 🚀 How to Run
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/naham6/Sales_Forecasting.git
+git clone https://github.com/naham6/FUTURE_ML_01.git
 
 ```
 
