@@ -82,7 +82,7 @@ git clone https://github.com/naham6/FUTURE_ML_01.git
 
 2. **Install Dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r numpy pandas matplotlib openpyxl
 
 ```
 
