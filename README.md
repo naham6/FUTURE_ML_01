@@ -6,7 +6,7 @@ Building a bridge between historical data and future inventory needs. This tool 
 
 ## 📊 Project Overview
 
-The core objective is to leverage transactional data to forecast demand. By identifying patterns in daily sales—especially during high-pressure periods like the holidays—this tool provides actionable insights for smarter inventory management.
+The core objective is to leverage transactional data to forecast demand. By identifying patterns in daily sales—especially during high-pressure periods like the holidays—this tool provides actionable insights for smarter inventory management. 
 
 ## 📁 Dataset
 
